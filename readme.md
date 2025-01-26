@@ -94,10 +94,10 @@ An Excel file is generated with the following columns:
 - **College Name**: Name of the engineering college.
 
 Example:
-| Code  | College Name                                |
-|-------|---------------------------------------------|
-| 1234  | ABC Engineering College                     |
-| 5678  | XYZ Institute of Technology                 |
+| Code  | College Name                                                        |
+|-------|---------------------------------------------------------------------|
+| MHVR  | MAHAVEER INSTITUTE OF SCI. AND TECHNOLOGY, VYASAPURI, BANDLAGUDA P  |
+| 5678  | XYZ Institute of Technology                                         |
 
 ### Image Output:
 Extracted images from the PDF are saved as PNG files in the specified folder.
