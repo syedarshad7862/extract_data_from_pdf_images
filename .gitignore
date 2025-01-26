@@ -1,0 +1,8 @@
+/extracted_images/
+*.xlsx
+*.pdf
+extract_data.py
+extract_image_from_pdf.py
+extracted_table_pdf.py
+simple_extract_table.py
+.venv/
